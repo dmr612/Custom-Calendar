@@ -182,6 +182,10 @@
   --editor-menu-control-color-hover: #ffffff;
   --editor-menu-heading-color: #78B9FF;
   --editor-menu-icon-inactive-color: #6c757d;
+  --toggle-unchecked-image: url("data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%27-4 -4 8 8%27%3e%3ccircle r=%273%27 fill=%27rgba%28255, 255, 255, 0.5%29%27/%3e%3c/svg%3e");
+  --toggle-checked-image: url("data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%27-4 -4 8 8%27%3e%3ccircle r=%273%27 fill=%27%23fff%27/%3e%3c/svg%3e");
+  --toggle-border-color: #ffffff;
+  --toggle-checked-bg-color: #2B91FF;
   --time-selector-bg-color: #1b130d;
   --time-selector-border-color: #6b594d;
   --time-selector-option-bg-color: #1b130d;
